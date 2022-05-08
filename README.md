@@ -1,2 +1,2 @@
 # fanmade-bfdi-chromatic-scale
-yes
+a fanmade bfdi characther chromatic scale
